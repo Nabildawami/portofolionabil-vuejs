@@ -24,6 +24,7 @@ const router = createRouter({
       name: 'portofolio',
       component: () => import('../views/portofolio.vue')
     },
+    
     {
       path: '/galeri',
       name: 'galeri',
