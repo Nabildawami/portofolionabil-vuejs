@@ -27,8 +27,7 @@ import About from "../components/About.vue";
 <style scoped>
 .full-page {
   height: 100vh; 
-  width: 100%; 
-  background-image: url('@/assets/background.jpg'); 
+  width: 100%;  
   background-size: cover;
   background-position: center; 
   display: flex; 
